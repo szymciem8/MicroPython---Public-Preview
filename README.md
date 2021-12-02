@@ -1,4 +1,4 @@
-# Raspberry Pi Pico Bird Shooter
+## Raspberry Pi Pico Bird Shooter
 
 # Pełny program – kolejne zajęcia
 ![](img/Obraz1.gif)
