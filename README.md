@@ -1,6 +1,6 @@
 # Raspberry Pi Pico Bird Shooter
 
-Lekcje zostały przygotowane dla szkół: Akademia Nauki i Rozowoju w Żorach oraz EMT Kids w Gliwicach, gdzie można wziąć udział w pełnym szkoleniu. Kurs jest przystosowany dla dzieci i młodzieży w wieku od 12 do 14 lat. Ze względu na przeznaczenie kursu, programy częściowo zostały napisne w języku polskim.
+Lekcja jest częścią pełnego kursu, który został przygotowany dla szkół: Akademia Nauki i Rozowoju w Żorach oraz EMT Kids w Gliwicach, gdzie można wziąć udział w pełnym szkoleniu. Kurs jest przystosowany dla dzieci i młodzieży w wieku od 12 do 14 lat. Ze względu na przeznaczenie kursu, programy częściowo zostały napisne w języku polskim.
 
 ## Pełny program – kolejne zajęcia
 ![](img/Obraz1.gif)
