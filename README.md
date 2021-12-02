@@ -51,11 +51,7 @@ import random
 
 ## PC funkcja cz. 1
 
-Pobieramy dane z Pico i wykorzystujemy je do obliczenie pozycji wskaźnika\.
-
-Dodatkowo możemy wyświetlić dane w konsoli\, żeby sprawdzić ich poprawność\.
-
-Dla ciekawskich można sprawdzić co oznaczają nazwyroll\,pitchiyaw\.
+Pobieramy dane z Pico i wykorzystujemy je do obliczenie pozycji wskaźnika\. Dodatkowo możemy wyświetlić dane w konsoli\, żeby sprawdzić ich poprawność\. Dla ciekawskich można sprawdzić co oznaczają nazwyroll\,pitchiyaw\.
 
 ```
 def render_celownika():
@@ -84,9 +80,7 @@ def render_celownika():
 
 ## Dalsza część funkcji rysującej wskaźnik
 
-Dbamy o to\, żeby wskaźnik nie wyszedł poza okno\.
-
-Dodatkowo wprowadzamy warunek\, który czyści port szeregowy czas co jakiś czas\. Jak się okazuje\, zbyt duża nieodczytanych danych może spowodować spowolnione działanie\.
+Dbamy o to\, żeby wskaźnik nie wyszedł poza okno\. Dodatkowo wprowadzamy warunek\, który czyści port szeregowy czas co jakiś czas\. Jak się okazuje\, zbyt duża nieodczytanych danych może spowodować spowolnione działanie\.
 
 ```
         #Jeżli pozycja wskaźnika będzie poza ekranem to go blokujemy
@@ -111,9 +105,7 @@ Dodatkowo wprowadzamy warunek\, który czyści port szeregowy czas co jakiś cza
 
 ## PC pętla główna
 
-Inicjujemy połączenie z Pico oraz tworzymy odpowiednie zmienne\.
-
-Opcja __DOUBLEBUF__ pozwoli na szybsze działanie programu\.
+Inicjujemy połączenie z Pico oraz tworzymy odpowiednie zmienne\. Opcja __DOUBLEBUF__ pozwoli na szybsze działanie programu\.
 
 ```
 #Tworzymy połączenie z portem szeregowym 
