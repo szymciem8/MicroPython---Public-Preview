@@ -5,8 +5,10 @@ Lekcja jest częścią pełnego kursu, który został przygotowany dla szkół: 
 ## Pełny program – kolejne zajęcia
 ![](img/Obraz1.gif)
 
-# Program testowy – plan na dzisiaj
+## Program testowy – plan na dzisiaj
 ![](img/Obraz2.gif)
+
+Umożliwiamy sterowanie celownikiem przy pomocy żyroskopu. 
 
 ## Założenia projektu
 
