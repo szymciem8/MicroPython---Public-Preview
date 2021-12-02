@@ -1,10 +1,10 @@
 # Raspberry Pi Pico Bird Shooter
 
 # Pełny program – kolejne zajęcia
-
 ![](img/Obraz1.gif)
 
 # Program testowy – plan na dzisiaj
+![](img/Obraz2.gif)
 
 # Założenia projektu
 
