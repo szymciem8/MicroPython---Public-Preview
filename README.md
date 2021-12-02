@@ -8,9 +8,9 @@
 
 # Założenia projektu
 
-Gra polegająca na zestrzeliwaniuprzelatujących ptaków\.
+Gra polegająca na zestrzeliwaniu przelatujących ptaków\.
 
-Przez dwie kolejne lekcje będziemy tworzyć grę sterowaną poprzez żyroskop podłączony do Pico\.
+Przez dwie kolejne lekcje będziemy tworzyć grę sterowaną poprzez żyroskop podłączony do Raspberry Pi Pico\.
 
 Żyroskop będzie wykorzystany do ustawienia celownika na ekranie\, który pozwoli nam na zestrzelenie przelatujących ptaków\.
 
@@ -20,7 +20,7 @@ Potrzebny układ elektroniczny nie jest skomplikowany\, ale będziemy musieli zb
 
 # Schemat projektu
 
-
+![](img/Obraz3.png)
 
 # Pico
 
