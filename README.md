@@ -31,13 +31,12 @@ Ten przycisk posłuży nam jako spust do wykorzystania w grze\.
 
 # PC - Biblioteki do podpięcia
 
-'''
+```
 from machine import I2C, Pin
 import mpu6050
 import math
 import time
-
-'''
+```
 
 
 # PC funkcja cz. 1
